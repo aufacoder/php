@@ -1,0 +1,5 @@
+<?php
+  //how to shutdown your pc on php
+  
+  exac("shutdown -s [u:] 00:00");
+?>
